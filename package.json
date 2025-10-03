@@ -1,0 +1,20 @@
+{
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "exercises-01": "node exercises/01-exercises.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juancho7790/20251002-introduction-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juancho7790/20251002-introduction-javascript/issues"
+  },
+  "homepage": "https://github.com/Juancho7790/20251002-introduction-javascript#readme"
+}
