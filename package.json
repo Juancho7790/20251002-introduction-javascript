@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "exercises-01": "node exercises/01-exercises.js"
+    "01-exercises": "node exercises/01-exercises.js"
   },
   "repository": {
     "type": "git",
