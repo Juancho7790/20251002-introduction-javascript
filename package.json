@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "ejercicio2": "node exercises/ejercicio2.js",
-    "01-exercises": "node exercises/01-exercises.js"
+    "01-exercises": "node exercises/01-exercises.js",
+    "ejercicio3": "node exercises/ejercicio3.js"
     
   },
   "repository": {
