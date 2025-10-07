@@ -7,7 +7,8 @@
     "ejercicio2": "node exercises/ejercicio2.js",
     "01-exercises": "node exercises/01-exercises.js",
     "ejercicio3": "node exercises/ejercicio3.js",
-    "ejercicio4": "node exercises/ejercicio4.js"
+    "ejercicio4": "node exercises/ejercicio4.js",
+    "ejercicio5": "node exercises/ejercicio5.js"
     
   },
   "repository": {
