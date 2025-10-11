@@ -17,8 +17,18 @@
     "ejercicio-11": "node exercises/ejercicio-11.js",
     "ejercicio-12": "node exercises/ejercicio-12.js",
     "ejercicio-13": "node exercises/ejercicio-13.js",
-    "ejercicio-14": "node exercises/ejercicio-14.js"
-    
+    "ejercicio-14": "node exercises/ejercicio-14.js",
+    "ejercicio-15": "node exercises/ejercicio-15.js",
+    "ejercicio-16": "node exercises/ejercicio-16.js",
+    "ejercicio-17": "node exercises/ejercicio-17.js",
+    "ejercicio-18": "node exercises/ejercicio-18.js",
+    "ejercicio-19": "node exercises/ejercicio-19.js",
+    "ejercicio-20": "node exercises/ejercicio-20.js",
+    "ejercicio-21": "node exercises/ejercicio-21.js",
+    "ejercicio-22": "node exercises/ejercicio-22.js",
+    "ejercicio-23": "node exercises/ejercicio-23.js",
+    "ejercicio-24": "node exercises/ejercicio-24.js",
+    "ejercicio-25": "node exercises/ejercicio-25.js"
     
   },
   "repository": {
